@@ -39,8 +39,8 @@ This makes the system more interactive, customizable, and informative compared t
 ## 🌾 Dataset Links
 
 - 🍅 **Tomato Dataset**: [New Plant Diseases Dataset (Augmented)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
-- 🥔 **Potato Dataset**: [PlantVillage Dataset (Potato - Color)](https://www.kaggle.com/datasets/emmarex/plantdisease)
-- 🍬 **Sugarcane Dataset**: [Custom Sugarcane Leaf Dataset (Google Drive)](https://drive.google.com/drive/folders/1XvRRlM5NhaI1UNl0Ud5SoxUdsoFWtvpN?usp=sharing)
+- 🥔 **Potato Dataset**: [PlantVillage Dataset (Potato - Color)](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
+- 🍬 **Sugarcane Dataset**: [Custom Sugarcane Leaf Dataset (Google Drive)](https://www.kaggle.com/datasets/nirmalsankalana/sugarcane-leaf-disease-dataset)
 
 ---
 
