@@ -24,6 +24,26 @@ This project is a plant disease classification system that detects diseases in *
 
 ---
 
+## 💡 Novelty
+
+Unlike traditional plant disease detectors that focus on a single crop and use one fixed model, our project offers:
+
+- **Multi-crop selection** (Tomato, Potato, Sugarcane)
+- **Model flexibility** – users choose from multiple CNN and ML models
+- **Educational disease insights** – includes name, causes, prevention, treatment, and resources
+
+This makes the system more interactive, customizable, and informative compared to standard solutions.
+
+---
+
+## 🌾 Dataset Links
+
+- 🍅 **Tomato Dataset**: [New Plant Diseases Dataset (Augmented)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+- 🥔 **Potato Dataset**: [PlantVillage Dataset (Potato - Color)](https://www.kaggle.com/datasets/emmarex/plantdisease)
+- 🍬 **Sugarcane Dataset**: [Custom Sugarcane Leaf Dataset (Google Drive)](https://drive.google.com/drive/folders/1XvRRlM5NhaI1UNl0Ud5SoxUdsoFWtvpN?usp=sharing)
+
+---
+
 ## 💻 Tech Stack
 
 - **Frontend**: HTML, CSS (via Flask templates)
